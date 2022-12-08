@@ -112,7 +112,7 @@ body{
     content: '';
     width: 4px;
     height: 110px;
-    background-color: #e6e6e6;
+    background-color: #ffe75f;
     z-index: 11;
 }
 .sc::after{
