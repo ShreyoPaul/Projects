@@ -22,12 +22,14 @@ dark.addEventListener("click", () => {
         document.body.style.backgroundColor = '#E6DDC4';
         dark.style.border = '1px solid #E6DDC4';
         clock.style.border = '1px solid #E6DDC4';
+        mn.style.backgroundColor = '#090c18';
         flag = false;
     }
     else{
         document.body.style.backgroundColor = '#090c18';
         dark.style.border = '1px solid #090c18';
         clock.style.border = '1px solid #090c18';
+        mn.style.backgroundColor = '#e6e6e6';
         flag = true;
     }
 })
